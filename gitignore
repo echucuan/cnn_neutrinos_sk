@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model outputs
+*.keras
+*.h5
+*.ckpt
+saved_model/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Dataset local extraído
+dataset/
+/content/
+
+# IDEs
+.vscode/
+.idea/
